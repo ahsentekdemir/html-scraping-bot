@@ -2,7 +2,6 @@
 require "vendor/autoload.php";
 include __DIR__."/curl.php";
 include __DIR__."/simple_html_dom.php";
-include __DIR__."/func.php";
 
 use PHPHtmlParser\Dom;
 
